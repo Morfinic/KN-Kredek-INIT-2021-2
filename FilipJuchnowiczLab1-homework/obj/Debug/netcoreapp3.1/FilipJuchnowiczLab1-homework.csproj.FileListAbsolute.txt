@@ -1,0 +1,14 @@
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.deps.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.runtimeconfig.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.runtimeconfig.dev.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/bin/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.pdb
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.csproj.AssemblyReference.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.AssemblyInfoInputs.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.AssemblyInfo.cs
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.csproj.CoreCompileInputs.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.pdb
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab1-homework/obj/Debug/netcoreapp3.1/FilipJuchnowiczLab1-homework.genruntimeconfig.cache
