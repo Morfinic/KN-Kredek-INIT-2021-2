@@ -1,0 +1,16 @@
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3.deps.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3.runtimeconfig.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3.runtimeconfig.dev.json
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/ref/FilipJuchnowiczLab3.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/bin/Debug/net5.0/FilipJuchnowiczLab3.pdb
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.csproj.AssemblyReference.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.AssemblyInfoInputs.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.AssemblyInfo.cs
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.csproj.CoreCompileInputs.cache
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/ref/FilipJuchnowiczLab3.dll
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.pdb
+/home/morfinic/Programming/KN_Kredek/FilipJuchnowiczLab3/obj/Debug/net5.0/FilipJuchnowiczLab3.genruntimeconfig.cache
